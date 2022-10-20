@@ -7,7 +7,6 @@ router.get('/', function(req, res, next) {
 });
 
 
-// GET /skills/new
 
 
 module.exports = router;
